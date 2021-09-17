@@ -4,7 +4,7 @@ To read more about the game, Click here - [Simon Game](https://en.wikipedia.org/
 
 Follow this steps to start play:
 1. Make sure you have Node.js on your computer, Download & Install - [Node.js](https://nodejs.org/en/download/) 
-2. Clone this repository `git clone https://github.com/orti10/simon-train.git` 
+2. Clone this repository `git clone https://github.com/orti10/Simon-Says-Game.git` 
 3. Open this project with virtual studio code - recommended (Make sure to add React tools to it)
 4. Run `npm start` and wait for your browser to open automatically the localhost page
 5. PLAY AND HAVE FUN!

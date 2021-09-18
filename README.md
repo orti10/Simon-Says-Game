@@ -32,6 +32,7 @@ and you will have to start all over again.
 and saving it in a data base using json file as data base. 
 (I know it is not enough in the level of execution but it provides a temporary solution to show ability.)
 *Table Fields: Name, Score, Date(front to local time), Sort by high score*
+Use Grid table react - So that I do not have to exercise from scratch
 
 2. The goal was to bring out a product and Implement functionality!
    The next step is to upgrade and add more things and of course complete the required knowledge.

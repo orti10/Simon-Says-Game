@@ -3,84 +3,36 @@
 To read more about the game, Click here - [Simon Game](https://en.wikipedia.org/wiki/Simon_(game))
 
 Follow this steps to start play:
-1. Make sure you have Node.js on your computer, Download & Install - [Node.js](https://nodejs.org/en/download/) 
-2. Start your React experience, Run:
+1. Download & Install - [Node.js](https://nodejs.org/en/download/) 
+2. Start your React experience - Open cmd and Run:
 ```sh
 a. npx create-react-app my-simon-game
 b. cd my-simon-game
-c. make sure all file are clone from this repository
+c. git clone https://github.com/orti10/my-simon-game.git
 d. npm start
 ```
-3. PLAY AND HAVE FUN!
+Wait when starting the development server and the game will open automatically through a window in your browser 
 
 
-# Getting Started with Create React App
+# Welcome to the game guide section:
+## Basic Game
+To start, slide the Off/On button, Now Simon will play random step & sound and you should follow it.
+The game will follow your steps and save the highest steps you have reached.
+If you make a mistake, the current step will be played again and you will be able to correct the mistake.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Challenge
+If you wish to play in a more challenging way - slide the Strict button
+Strict Mode - Unlike my basic stage, When you turn on Strict mode your game Will be reset after ONE mistake
+and you will have to start all over again.
 
-## Available Scripts
+![simon controller](https://user-images.githubusercontent.com/44768171/133905399-862a611f-f793-4609-b4b6-c1056805e559.png)
 
-In the project directory, you can run:
+## Learning and improving for the future
+1. Implement a score table that appears in the pop-up by pressing a button and shows the score of all participants in the game
+and saving it in a data base using json file as data base. 
+(I know it is not enough in the level of execution but it provides a temporary solution to show ability.)
+Table fild: Name, Score, Date(front to local time), Sort by high score
 
-### `npm start`
+2. The goal was to bring out a product and Implement functionality!
+   The next step is to upgrade and add more things and of course complete the required knowledge.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

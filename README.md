@@ -31,7 +31,7 @@ and you will have to start all over again.
 1. Implement a score table that appears in the pop-up by pressing a button and shows the score of all participants in the game
 and saving it in a data base using json file as data base. 
 (I know it is not enough in the level of execution but it provides a temporary solution to show ability.)
-Table Fields: Name, Score, Date(front to local time), Sort by high score
+*Table Fields: Name, Score, Date(front to local time), Sort by high score*
 
 2. The goal was to bring out a product and Implement functionality!
    The next step is to upgrade and add more things and of course complete the required knowledge.

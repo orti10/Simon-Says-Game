@@ -1,7 +1,10 @@
 ## Simon Says Game
 
 To read more about the game, Click here - [Simon Game](https://en.wikipedia.org/wiki/Simon_(game))
+ 
+## [I deployed the game on a server - Click Here](https://simongameortal.000webhostapp.com/) 
 
+- Another option is to run the game through a local server, 
 Follow this steps to start play:
 1. Download & Install - [Node.js](https://nodejs.org/en/download/) 
 2. Start your React experience - Open cmd and Run:
